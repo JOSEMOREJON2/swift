@@ -15,14 +15,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D0B94D831CB61E9200893EEB /* swift1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = swift1.app; path = "/Users/macbookair/Desarrollo/swift1/build/Debug-iphoneos/swift1.app"; sourceTree = "<absolute>"; };
 		D0B94D861CB61E9200893EEB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0B94D881CB61E9200893EEB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D0B94D8B1CB61E9200893EEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D0B94D8D1CB61E9200893EEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0B94D901CB61E9200893EEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0B94D921CB61E9200893EEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0B94D981CB620B000893EEB /* TAREA1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TAREA1.playground; sourceTree = "<group>"; };
+		D0B94DBC1CB6353100893EEB /* swift1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = swift1.app; path = "/Users/macbookair/Documents/tarea1/build/Debug-iphoneos/swift1.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +51,6 @@
 				D0B94D8D1CB61E9200893EEB /* Assets.xcassets */,
 				D0B94D8F1CB61E9200893EEB /* LaunchScreen.storyboard */,
 				D0B94D921CB61E9200893EEB /* Info.plist */,
-				D0B94D981CB620B000893EEB /* TAREA1.playground */,
 			);
 			path = swift1;
 			sourceTree = "<group>";
@@ -74,7 +72,7 @@
 			);
 			name = swift1;
 			productName = swift1;
-			productReference = D0B94D831CB61E9200893EEB /* swift1.app */;
+			productReference = D0B94DBC1CB6353100893EEB /* swift1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -276,6 +274,7 @@
 				D0B94D971CB61E9200893EEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
